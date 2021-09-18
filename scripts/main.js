@@ -1,0 +1,23 @@
+var myNumber;
+myNumber = 5;
+var myOtherNumber;
+myOtherNumber = 5;
+var myTotal;
+myTotal = myOtherNumber * myOtherNumber;
+var myName;
+myName = "";
+var myCombo;
+myCombo = "";
+myCombo = myNumber + myOtherNumber;
+var myOtherCombo;
+myOtherCombo = "";
+myOtherCombo = myNumber + myOtherNumber;
+var myRemainder;
+myRemainder = myNumber % 5;
+var i;
+i = 2;
+var int;
+int = 4;
+var myBoolean;
+myBoolean = false;
+    
